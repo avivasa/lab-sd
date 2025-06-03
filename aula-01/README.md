@@ -3,8 +3,7 @@
 Bem-vindo à primeira aula do nosso laboratório! Nesta Aula vamos vamos instalar o Python. 
 
 ## Instalação do Python
-Antes de instalar o Python verifique se ele já está instalado em seu computador. Execute o Passo 1 e caso 
-não encontrar o comando não seja encontrado execute os passos posteriores. 
+Antes de instalar o Python, certifique-se de que ele já não está presente em seu computador. Siga o Passo 1 para verificar a instalação e, caso o comando não seja encontrado, prossiga com os passos seguintes para realizar a instalação.
 
 ### Passo 1: Verificando o Python
 ``` bash
